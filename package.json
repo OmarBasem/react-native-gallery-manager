@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      "react-native-gallery-manager@1.0.9",
+      "/Users/omar/Dev/STiiiCK-app"
+    ]
+  ],
+  "_from": "git+https://github.com/OmarBasem/react-native-gallery-manager.git",
+  "_id": "react-native-gallery-manager@1.0.9",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-gallery-manager",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/OmarBasem/react-native-gallery-manager.git",
+    "rawSpec": "git+https://github.com/OmarBasem/react-native-gallery-manager.git",
+    "saveSpec": "git+https://github.com/OmarBasem/react-native-gallery-manager.git",
+    "fetchSpec": "https://github.com/OmarBasem/react-native-gallery-manager.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/OmarBasem/react-native-gallery-manager.git#09826dd11a55c84916966d45c78b114677fc66ce",
+  "_spec": "git+https://github.com/OmarBasem/react-native-gallery-manager.git",
+  "_where": "/Users/omar/Dev/STiiiCK-app",
+  "author": {
+    "name": "Hristo Hristov"
+  },
+  "bugs": {
+    "url": "https://github.com/pentarex/react-native-gallery-manager/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "List Gallery content from React-Native",
+  "homepage": "https://github.com/pentarex/react-native-gallery-manager#readme",
+  "keywords": [
+    "photos",
+    "videos",
+    "images",
+    "gallery",
+    "icloud",
+    "phasset",
+    "react-native"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-gallery-manager",
+  "nativePackage": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pentarex/react-native-gallery-manager.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.9"
+}
